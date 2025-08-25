@@ -1,0 +1,7 @@
+{
+  "homepage": "https://gnyalabs.github.io/Registration-Progress-App",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
